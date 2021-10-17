@@ -1,5 +1,12 @@
-G231190149 - OSS - USM JAYA
+G231190149 - Bertha Sonia P - USM JAYA
 
+<<<<<<< HEAD
+
+Fakultas Teknologi Informasi dan Komunikas
+
+Kota Semarang, Jawa Tengah, Indonesia
+=======
 Universitas Semarang
 
 Jl. Soekarno-Hatta, Tlogosari Kulon
+>>>>>>> sub-0149-BSP

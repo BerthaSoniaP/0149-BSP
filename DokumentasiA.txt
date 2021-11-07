@@ -1,0 +1,1 @@
+ism /online / /packagepath:C:\\DELL\0C7WX\1019e7284e4d485bad74a4fdd370c5ca.appx  /licensepath:C:\\DELL\0C7WX\1019e7284e4d485bad74a4fdd370c5ca_License1.xml /CustomDataPath=C:\\DELL\0C7WX\dell-metro.json /Region="all"
